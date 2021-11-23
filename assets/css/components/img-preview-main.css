@@ -1,0 +1,31 @@
+.start-wrapper {
+    display: flex;
+    overflow: hidden;
+    height: 100vh;
+}
+
+.img-preview-main {
+    height: 100%;
+    width: 50%;
+    position: relative;
+}
+
+.img-main {
+    height: 100vh;
+    width: 100%;
+    object-fit: cover;
+    user-select: none;
+}
+
+.img-content {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.text-main-content {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

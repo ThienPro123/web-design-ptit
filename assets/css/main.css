@@ -1,0 +1,88 @@
+.right-content {
+    width: 50%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo {
+    margin-top: 10%;
+    margin-bottom: 54px;
+    padding: 40px;
+    position: relative;
+}
+
+.logo > img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.gruop-feature {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 22px 0;
+}
+
+.gruop-feature__img {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 224px;
+}
+
+.gruop-feature__img > img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.btn-container {
+    width: 486px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.des-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 12px;
+}
+
+.des-container__item {
+    font-size: 1.6rem;
+    line-height: 23px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 0;
+    text-align: center;
+}
+
+.link {
+    color: #000;
+    transition: all .25s ease;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+.fence {
+    display: inline-block;
+    width: 2px;
+    height: 18px;
+    margin: 0 4px;
+    background: #000;
+}

@@ -11,6 +11,10 @@
     color: #fff;
 }
 
+.btn:hover {
+    background-color: #fa6558;
+}
+
 .btn-large {
     padding: 16px;
     min-width: 100%;

@@ -2,6 +2,8 @@
 
 ## `You can access:`
 [https://hoanganhnh.github.io/web-design-ptit/](https://hoanganhnh.github.io/web-design-ptit/)
+or
+[https://web-design-ptit.netlify.app/](https://web-design-ptit.netlify.app/)
 
 ## Contributors ✨
 <table>

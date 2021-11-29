@@ -29,5 +29,12 @@ or
                 <sub><b>member 📖 👀</b></sub>
             </a>
         </td>
+        <td align="center"> 
+            <a href="https://github.com/ThienPro123"> 
+                <img src="https://avatars.githubusercontent.com/u/72809289?v=4" width="100px;" alt=""/>
+                <br /> 
+                <sub><b>member 🚇 🚧</b></sub> 
+            </a> 
+        </td>
     </tr>
 </table>
